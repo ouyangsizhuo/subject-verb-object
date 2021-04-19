@@ -20,5 +20,12 @@ token.dep_: 依存关系
 """
 det: determiner决定词，如冠词等
 nsubj : nominal subject，名词主语
-
+amod: adjectival modifier形容词
+punct: punctuation，标点
+dobj : direct object直接宾语
+ROOT: root，最重要的词，从它开始，根节点
+poss: possession modifier，所有形式，所有格，所属
+attr: attributive，定语
+relcl：relative clause 关系从句 
+compound：复合语
 """
